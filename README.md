@@ -1,5 +1,5 @@
 - Hi, I’m @talhatogrul
-- I’m interested in Artificial Intelligence, Machine Learning and also Cybersecurity.
+- I’m interested in Cybersecurity, Machine Learning and also Artificial Intelligence.
 - I’m currently learning Python, C, SQL, Java, JavaScript, C++
 - I’m looking to collaborate on any kind of beginner-level programming.
 - How to reach me: yusuftalhatogrul@gmail.com or @talhatogrul on Instagram
