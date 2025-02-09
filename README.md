@@ -1,5 +1,5 @@
 - Hi, I’m @talhatogrul
-- I’m interested in Cybersecurity, Machine Learning and also Artificial Intelligence.
-- I’m currently learning Python, C, SQL, Java, JavaScript, C++
+- I’m interested in Backend, Data Science, AI and Mobile Developing.
+- I’m currently learning Python, C, SQL, Java, JavaScript, C++ as frameworks and dealing with Data Structures & Algorithms.
 - I’m looking to collaborate on any kind of beginner-level programming.
 - How to reach me: yusuftalhatogrul@gmail.com or @talhatogrul on Instagram
