@@ -1,5 +1,15 @@
-- Hi, I’m @talhatogrul
-- I’m interested in Backend, Data Science, AI and Mobile Developing.
-- I’m currently learning Python, C, SQL, Java, JavaScript, C++ as frameworks and dealing with Data Structures & Algorithms.
-- I’m looking to collaborate on any kind of beginner-level programming.
-- How to reach me: yusuftalhatogrul@gmail.com or @talhatogrul on Instagram
+# Hi, I'm Talha
+
+I am a sophomore Computer Science & Engineering student focused on advancing my technical skills and applying them to real-world projects.
+
+### Technical Skills
+
+- **Strong Knowledge:** Python, C, C++, Java, webMethods
+- **Basic Understanding:** HTML, CSS, JavaScript, SQL, Swift (iOS), Kotlin (Android)
+
+### Roles & Affiliations
+
+- Undergraduate Research Assistant & Group Coordinator at **Yeditepe Software Engineering Research Group**
+- Vice President at **IEEE Yeditepe Computer Society**
+
+Driven to grow, contribute, and innovate in software development and technology.
